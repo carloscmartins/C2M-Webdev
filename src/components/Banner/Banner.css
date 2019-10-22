@@ -1,0 +1,20 @@
+.banner-home{
+    background-color: #ffcf0e !important;
+    padding: 3rem !important;
+    margin-bottom: 2rem;
+    }
+
+/*.banner-home{
+    background-color: #ffffff !important;
+}*/
+
+.banner-heading-home{
+    font-size: 6rem;
+    font-weight: 600;    
+}
+
+
+.banner-p-home{
+    font-size: 3rem !important;
+    font-weight: 500 !important;
+}

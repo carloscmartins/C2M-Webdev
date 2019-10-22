@@ -1,0 +1,33 @@
+.banner_contact{
+    padding: 3rem 1rem !important;
+    background-color: #ffcf0e !important;
+}
+
+.banner-heading{
+    font-size: 4rem;
+    font-weight: 700;
+    justify-content: center;
+}
+
+.banner-p{
+    padding: 1rem 0rem;
+    font-size: 1.5rem !important;
+    font-weight: 500 !important;
+}
+
+button{
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    color: white;
+    font-weight: 600;
+    font-size: 1.5rem;
+    background-color: black;
+    border-color: black;
+}
+
+#center .container-fluid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

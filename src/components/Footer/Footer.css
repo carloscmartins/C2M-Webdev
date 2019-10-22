@@ -1,0 +1,42 @@
+.footer {
+    position: relative;
+    left:0;
+    bottom:0;
+    height: 2.5rem;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 0 1rem;
+}
+
+.container {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+}
+
+.icon ul {
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-weight: 600;
+}
+
+.icon li {
+    padding: 0rem 0.5rem;
+}
+
+.spacer{
+    flex:1;
+}
+
+#c2m{
+    color: rgb(1, 57, 100);
+    font-size:0.8rem;
+    font-weight:800;
+    text-align: right;
+}

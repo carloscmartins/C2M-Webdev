@@ -1,0 +1,52 @@
+.Projects{
+    margin-top: 1.5rem;
+}
+
+h1{
+    font-size: 2rem;
+    margin: 0 !important;
+}
+
+h2{
+    font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.card{
+    margin: 2rem 0;
+}
+
+.card-body{
+    background: #fffdfd;
+}
+
+.text-muted {
+    color: #ffcf0e!important;
+    font-size: 100%;
+    font-weight: 600;
+}
+
+.flex-card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    }
+
+#tool_tag{
+    margin: 0.25rem 0.25rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.3rem;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    background-color:rgb(2, 28, 100);
+}
+
+.Professional{
+    margin-top: -2rem;
+}
